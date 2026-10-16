@@ -253,6 +253,7 @@ We confirm that this document reflects our team's agreed-upon proposal. All memb
 - [x] Each member submitted their own GitHub file link through MOLE.
 
 ---
+```
 gdoc_comments:
   c1:
     status: RESOLVED
@@ -348,4 +349,5 @@ gdoc_comments:
     - author: Steve Nash LLAMEDO
       time: '2026-10-16T06:40:23.127Z'
       body: also team name
+```
 ---
