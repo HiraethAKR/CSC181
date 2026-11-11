@@ -316,7 +316,7 @@ Acceptance criteria:
 
 ### Use-case diagram
 
-![Use case diagram](backlog-images/Case Diagram.png)
+![Use case diagram](backlog-images/case-diagram.png)
 
 ### UC-01: Calculate Trip Route and Fare
 
