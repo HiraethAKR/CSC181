@@ -325,10 +325,10 @@ Acceptance criteria:
 | Primary actor | Commuter |
 | Precondition | The app is successfully loaded with the static route and fare dataset. |
 | Main success scenario | 1\. Commuter enters origin and destination landmarks.  
-2\. System calculates a valid jeepney/bus route.
-3\. System calculates regular and discounted fares for the distance. 
-4\. System displays the route map, transfer points, and side-by-side fares. 
-5\. Commuter selects the route to review visual landmark tags. |
+                          2\. System calculates a valid jeepney/bus route.
+                          3\. System calculates regular and discounted fares for the distance. 
+                          4\. System displays the route map, transfer points, and side-by-side fares. 
+                          5\. Commuter selects the route to review visual landmark tags. |
 | Extensions | 2a. No direct route found: System calculates a multi-leg route and highlights transfer points. 2b. Destination outside pilot coverage: System displays an "Out of coverage area" error. |
 | Postcondition | The commuter knows the exact route, transfer intersections, and fare to prepare. |
 | Stories covered | US-01, US-02, US-03, US-04, US-05 |
